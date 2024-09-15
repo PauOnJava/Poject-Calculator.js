@@ -1,0 +1,13 @@
+.calculator {
+    max-width: 400px;
+    margin: 50px auto;
+}
+.calculator-screen {
+    height: 70px;
+    font-size: 2rem;
+    text-align: right;
+}
+.calculator-keys button {
+    font-size: 1.5rem;
+    height: auto;
+}
